@@ -1,0 +1,104 @@
+/* 
+Harshavardhan Paladugu	1002020289
+Pathik Patel	1001846320
+Penumutchu Sandeep	1002029163 
+*/
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+    box-sizing: border-box
+}
+
+input[type=text],
+input[type=password] {
+
+
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    margin-left: 20px;
+    resize: vertical;
+
+}
+
+label {
+    font-size: 15px;
+}
+
+input[type=text]:focus,
+input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+
+button {
+    width: 200px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(10, 119, 13);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+.cancel {
+    padding: 14px 20px;
+    background-color: #ff3d2f;
+    width: 200px;
+}
+
+.formContainer {
+    border-radius: 5px;
+    background-color: hsla(0, 0%, 95%, 0.699);
+    padding: 20px;
+    width: 800px;
+    margin: auto;
+    padding: 60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+.section {
+    width: 100%;
+    display: inline-block;
+    background: #333;
+    height: 50vh;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+
+.signup {
+    width: 200px;
+    ;
+}
+select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}

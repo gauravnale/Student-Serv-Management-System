@@ -1,0 +1,72 @@
+.student-profile-form{
+  padding: 2rem;
+  margin: 1rem;
+}
+.student-profile-form input{
+  width: 60%;
+}
+.student-product-button1{
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #367036;
+  text-align: center;
+  cursor: pointer;
+  width: 105%;
+  font-size: 13px;
+  border-radius: 4px;
+}
+.past-products{
+  margin-top: 1.2rem;
+  margin-inline:2rem ;
+
+}
+.past-products h4{
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 1rem;
+}
+.past-products table{
+  width: 90%;
+}
+.past-products tr{
+  text-align: center;
+}
+.student-club-text3{
+ 
+    height: 88vh;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+.club-btns{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-top: .5rem;
+}
+.club-btns-join{
+  background-color: #367036;
+  width: 40%;
+  padding: .3rem .5rem;
+  margin-right: .3rem;
+}
+.club-btns-leave{
+  background-color: lightcoral;
+  width: 40%;
+  padding: .3rem .5rem;
+}
+.clubs-h2{
+  font-size: 1rem;
+  margin-bottom: .5rem;
+  text-decoration: underline;
+}
+
+.product-btns-return {
+  background-color: lightcoral;
+  width: 100%;
+  padding: 0.3rem 0.5rem;
+}

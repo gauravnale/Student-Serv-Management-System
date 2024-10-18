@@ -1,0 +1,11 @@
+BLOG: 
+
+http://pxp6320.uta.cloud/me/blog/
+
+
+
+Theme:
+
+http://pxp6320.uta.cloud/me/blog/wp-admin/themes.php?theme=twentyseventeen
+
+style.css
